@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020.12.16 12:01:05.511,=C:\Users\Oleg\Documents\Embarcadero\Studio\Projects\Project3PCH1.h</Transaction>
+    <Transaction>2020.12.16 12:01:06.233,=C:\Users\Oleg\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020.12.16 19:38:26.297,C:\Users\Oleg\Documents\Embarcadero\Studio\Projects\callgolangfunc\Project3PCH1.h=C:\Users\Oleg\Documents\Embarcadero\Studio\Projects\Project3PCH1.h</Transaction>
+    <Transaction>2020.12.16 19:38:31.516,C:\Users\Oleg\Documents\Embarcadero\Studio\Projects\callgolangfunc\Project3.cbproj=C:\Users\Oleg\Documents\Embarcadero\Studio\Projects\Project3.cbproj</Transaction>
+    <Transaction>2020.12.16 19:38:47.522,C:\Users\Oleg\Documents\Embarcadero\Studio\Projects\callgolangfunc\Unit1.cpp=C:\Users\Oleg\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020.12.16 19:38:47.522,C:\Users\Oleg\Documents\Embarcadero\Studio\Projects\callgolangfunc\Unit1.h=C:\Users\Oleg\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2020.12.16 19:38:47.522,C:\Users\Oleg\Documents\Embarcadero\Studio\Projects\callgolangfunc\Unit1.dfm=C:\Users\Oleg\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020.12.16 19:46:08.328,C:\Users\Oleg\Documents\Embarcadero\Studio\Projects\callgolangfunc\callgolangfuncPCH1.h=C:\Users\Oleg\Documents\Embarcadero\Studio\Projects\callgolangfunc\Project3PCH1.h</Transaction>
+    <Transaction>2020.12.16 19:46:08.365,C:\Users\Oleg\Documents\Embarcadero\Studio\Projects\callgolangfunc\callgolangfunc.cbproj=C:\Users\Oleg\Documents\Embarcadero\Studio\Projects\callgolangfunc\Project3.cbproj</Transaction>
+    <Transaction>2020.12.16 19:54:56.926,=C:\Users\Oleg\Documents\Embarcadero\Studio\Projects\callgolangfunc\README.MD</Transaction>
+    <Transaction>2020.12.16 19:55:04.638,=C:\Users\Oleg\Documents\Embarcadero\Studio\Projects\callgolangfunc\testdll.go</Transaction>
+    <Transaction>2020.12.16 19:56:03.139,=C:\Users\Oleg\Documents\Embarcadero\Studio\Projects\callgolangfunc\Win64\Debug\test.dll</Transaction>
+    <Transaction>2020.12.16 19:57:34.845,=C:\Users\Oleg\Documents\Embarcadero\Studio\Projects\callgolangfunc\test.dll</Transaction>
+  </Transactions>
+  <BT_BuildType>Debug</BT_BuildType>
+</BorlandProject>
